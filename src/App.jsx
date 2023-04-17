@@ -5,6 +5,7 @@ import info from "./assets/info.png";
 function App() {
   return (
     <div className="md:grid md:place-content-center w-full h-full">
+
       <div className="w-full flex gap-8 max-md:flex-col mx-auto md:my-80 group">
         <div className="bg-white w-96 group-hover:scale-90 transition hover:!scale-105 group-hover:opacity-50 hover:!opacity-100 mx-auto h-[454px] px-8 py-12 rounded-xl border-bar border hover:border-subtitle-purple ease-in duration-200">
           <h4 className="text-subtitle-purple font-semibold mb-2 uppercase">
@@ -136,6 +137,7 @@ function App() {
           </div>
         </div>
       </div>
+
     </div>
   );
 }
