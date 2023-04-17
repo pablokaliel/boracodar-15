@@ -1,3 +1,4 @@
+import React from "react";
 import check from "./assets/check.png";
 import info from "./assets/info.png";
 
