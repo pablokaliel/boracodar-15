@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  @apply bg-background;
+  @apply w-screen;
+  @apply h-screen;
+  @apply font-Titillium;
+}
+
+#root{
+  @apply w-screen;
+  @apply h-screen;
+}
