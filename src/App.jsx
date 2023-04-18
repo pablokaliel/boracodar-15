@@ -1,6 +1,6 @@
 import React from "react";
 import check from "./assets/check.png";
-import info from "./assets/info.png";
+
 
 function App() {
   return (
@@ -28,24 +28,14 @@ function App() {
               <img src={check} alt="check" className="h-3 w4" />
               <h3 className="text-text-black">Até 3 usuários</h3>
             </div>
-            <img
-              src={info}
-              alt="info"
-              title="somente 3 pessoas podem logar"
-              className="w-5 h5"
-            />
+
           </div>
           <div className="flex justify-between items-center">
             <div className="flex gap-2 items-center ">
               <img src={check} alt="check" className="h-3 w4" />
               <h3 className="text-text-black">Autoatendimento</h3>
             </div>
-            <img
-              src={info}
-              alt="info"
-              title="suporte online"
-              className="w-5 h5"
-            />
+
           </div>
         </div>
 
@@ -72,43 +62,27 @@ function App() {
                 <img src={check} alt="check" className="h-3 w4" />
                 <h3 className="text-text-dark">Usuários ilimitados</h3>
               </div>
-              <img
-                src={info}
-                alt="info"
-                title="não tem quantidade de usuários para logar"
-                className="w-5 h5"
-              />
+
             </div>
             <div className="flex justify-between items-center my-4">
               <div className="flex gap-2 items-center ">
                 <img src={check} alt="check" className="h-3 w4" />
                 <h3 className="text-text-dark">Suporte 24/7</h3>
               </div>
-              <img
-                src={info}
-                alt="info"
-                title="suporte todos os dias em qualquer horário"
-                className="w-5 h5"
-              />
+
             </div>
             <div className="flex justify-between items-center my-4">
               <div className="flex gap-2 items-center ">
                 <img src={check} alt="check" className="h-3 w4" />
                 <h3 className="text-text-dark">CSM Dedicado</h3>
               </div>
-              <img src={info} alt="info" title="CSM " className="w-5 h5" />
+             
             </div>
             <div className="flex justify-between items-center my-4">
               <div className="flex gap-2 items-center ">
                 <img src={check} alt="check" className="h-3 w4" />
                 <h3 className="text-text-dark">Treinamentos</h3>
               </div>
-              <img
-                src={info}
-                alt="info"
-                title="projetos praticos para treinar"
-                className="w-5 h5"
-              />
             </div>
           </div>
         </div>
