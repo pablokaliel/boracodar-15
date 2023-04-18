@@ -14,7 +14,7 @@
       <td>15</td>
       <td>Página de Planos</td>
       <td>17/04/23</td>
-      <td><a href="https://boracodar13.vercel.app/">🔗</a></td>
+      <td><a href="https://boracodar15.vercel.app/">🔗</a></td>
     </tr>
   </tbody>
 </table>
