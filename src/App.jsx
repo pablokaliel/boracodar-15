@@ -32,6 +32,7 @@ function App() {
               <img src={check} alt="check" className="h-3 w4" />
               <h3 className="text-gray-800">Autoatendimento</h3>
             </div>
+            <img src={information} alt="info" title="Atendimento online"/>
           </div>
         </div>
 
@@ -58,24 +59,28 @@ function App() {
                 <img src={check} alt="check" className="h-3 w4" />
                 <h3 className="text-gray-300">Usuários ilimitados</h3>
               </div>
+              <img src={information} alt="info" title="usuários são ilimitados"/>
             </div>
             <div className="flex justify-between items-center my-4">
               <div className="flex gap-2 items-center ">
                 <img src={check} alt="check" className="h-3 w4" />
                 <h3 className="text-gray-300">Suporte 24/7</h3>
               </div>
+              <img src={information} alt="info" title="suporte 24h e todos os dias"/>
             </div>
             <div className="flex justify-between items-center my-4">
               <div className="flex gap-2 items-center ">
                 <img src={check} alt="check" className="h-3 w4" />
                 <h3 className="text-gray-300">CSM Dedicado</h3>
               </div>
+              <img src={information} alt="info" title="CSM dedicado "/>
             </div>
             <div className="flex justify-between items-center my-4">
               <div className="flex gap-2 items-center ">
                 <img src={check} alt="check" className="h-3 w4" />
                 <h3 className="text-gray-300">Treinamentos</h3>
               </div>
+              <img src={information} alt="info" title="projetos praticos"/>
             </div>
           </div>
         </div>
