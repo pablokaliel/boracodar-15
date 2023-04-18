@@ -1,5 +1,6 @@
 import React from "react";
 import check from "./assets/check.png";
+import information from './assets/information.png'
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
               <img src={check} alt="check" className="h-3 w4" />
               <h3 className="text-gray-800">Até 3 usuários</h3>
             </div>
+            <img src={information} alt="info" title="usuários são limitados a 3"/>
           </div>
           <div className="flex justify-between items-center">
             <div className="flex gap-2 items-center ">
