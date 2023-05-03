@@ -1,29 +1,33 @@
-<p>Resolução do 15° desafio proposto pela <strong>rocketseat</strong>, durante a iniciativa <strong>#boracodar</strong> que aconteceu no mês de janeiro de 2023.</p>
+<h1 align="center">Página de Planos  </h1>
 
-<table>
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>name</th>
-      <th>date</th>
-      <th>view</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>15</td>
-      <td>Página de Planos</td>
-      <td>17/04/23</td>
-      <td><a href="https://boracodar15.vercel.app/">🔗</a></td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+</p>
 
-<p>O Desafio consiste em reproduzir o layout de uma página onde tem opções de planos para você assinar .</p>
+<p align="center">
+O Desafio consiste em reproduzir o layout de uma página onde tem opções de planos para você assinar. <br/>
+</p>
 
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-<div align="center">
-<h1>Resultado</h1>
-<img src="https://user-images.githubusercontent.com/104238801/232592313-5ce61fb0-0ed5-408a-aa9d-913c05bb1065.png" alt="page" width="700px" />
-</div>
+<br>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/104238801/232592313-5ce61fb0-0ed5-408a-aa9d-913c05bb1065.png" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- Vite e TailwindCSS
+- Git e Github
+- Figma
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1227809985897425342).
